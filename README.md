@@ -2,6 +2,23 @@ This is the **Bill Helper** app, built with [Next.js](https://nextjs.org).
 
 It runs completely in the browser + a small Node server and does **not** use any database. Bills and notes stay on the device, except for the text that is sent to the AI provider to do the analysis.
 
+## What this app does
+
+Bill Helper is designed for older adults (and the people helping them) to make medical and other bills easier to understand. Key features:
+
+- Paste or type bill text, or upload a clear photo of a paper bill.
+- Get a plain‑language summary with the most important amounts and dates.
+- See a gentle list of “things to double‑check” that might need further attention.
+- Ask for a simple **phone/email script** to talk to the company or insurance.
+- Ask for **questions for your doctor** about the bill.
+- Run a calm **“Is this likely a scam?”** helper to look for common warning signs.
+- Use a small **checklist of next steps** (call, pay, ask doctor, ask family).
+- Keep short bill histories **optionally** on the device only, with simple status tags (waiting / need to call / paid).
+- Take notes on what was said, including optional **voice dictation** where supported.
+- Print or export the session to a `.txt` file to bring to appointments or share.
+
+All of these features are local to the browser and this small app; there is no shared backend database.
+
 ---
 
 ## Install and run on a Windows PC (for your dad)
