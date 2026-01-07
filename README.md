@@ -21,7 +21,7 @@ All of these features are local to the browser and this small app; there is no s
 
 ---
 
-## Install and run on a Windows PC (for your dad)
+## Install and run on a Windows PC 
 
 These steps assume your dad's computer is Windows 10 or 11.
 
